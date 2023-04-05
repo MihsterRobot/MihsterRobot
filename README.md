@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning Java and GitHub.
+- 🌱 I’m currently learning Python and GitHub.
 - 🤔 I’m looking for help with getting started on creating Java applications. 
 - 📫 How to reach me: yousef.ah@outlook.com 
 - ⚡ Fun fact: The entropy of a black hole can be quantified by calculating the surface area of its event horizon.
