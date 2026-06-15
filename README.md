@@ -2,7 +2,7 @@
 
 I'm a backend engineer based in the UK who learns by building things from scratch. Not because it's the fastest way to get something working, but because it's the only way I actually understand what's going on beneath the surface.
 
-My projects range from a Redis server clone and a POSIX-compliant shell to a deployed Django REST API and an agentic AI assistant. Each one was chosen deliberately, to close a gap in my understanding, not to pad a portfolio.
+My projects range from a Redis server clone and a POSIX-compliant shell to a deployed Django REST API, an agentic AI assistant, and a RAG-powered document query API built with FastAPI and Pinecone. Each one was chosen deliberately, to close a gap in my understanding, not to pad a portfolio.
 
 I'm currently looking for a backend or software engineering role where hard problems are the norm and initiative is valued.
 
