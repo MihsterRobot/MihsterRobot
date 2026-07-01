@@ -7,6 +7,6 @@ My projects range from a Redis server clone and a Unix shell to a deployed Djang
 I'm currently looking for a backend or software engineering role where hard problems are the norm and initiative is valued.
 
 - 🔭 I'm currently working on expanding my backend portfolio
-- 🌱 I'm currently learning more about distributed systems and AI engineering
+- 🌱 I'm currently learning more about data engineering and backend system design
 - 💬 Ask me about Python, systems programming, or building things from scratch
 - 📫 How to reach me: yousef.ah@outlook.com
